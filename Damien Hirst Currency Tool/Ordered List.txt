@@ -1,0 +1,105 @@
+ 
+╔════════╦═══════════════════════════════════════════════════╗
+║ ID: 1  ║ Title: Totally gonna sell you                     ║
+║ ID: 2  ║ Title: Only we have time                          ║
+║ ID: 3  ║ Title: You could get your life together           ║
+║ ID: 4  ║ Title: Wet moving mirror                          ║
+║ ID: 5  ║ Title: It takes a village                         ║
+║ ID: 6  ║ Title: Right hand on the other sleeve             ║
+║ ID: 7  ║ Title: Walk down the street                       ║
+║ ID: 8  ║ Title: The sky looked tender                      ║
+║ ID: 9  ║ Title: We call you our lovers                     ║
+║ ID: 10 ║ Title: Longtime enemy                             ║
+║ ID: 11 ║ Title: Two blows out                              ║
+║ ID: 12 ║ Title: Ours is the tale of the Shire              ║
+║ ID: 13 ║ Title: I think someone laid down                  ║
+║ ID: 14 ║ Title: On in black                                ║
+║ ID: 15 ║ Title: To find myself empty                       ║
+║ ID: 16 ║ Title: Lead off with love                         ║
+║ ID: 17 ║ Title: None of this mattered                      ║
+║ ID: 18 ║ Title: Laugh in our faces                         ║
+║ ID: 19 ║ Title: Impress her                                ║
+║ ID: 20 ║ Title: Bring me through                           ║
+║ ID: 21 ║ Title: His tears won't die                        ║
+║ ID: 22 ║ Title: Fearsome little girl                       ║
+║ ID: 23 ║ Title: Dead after all                             ║
+║ ID: 24 ║ Title: I won't die in vain                        ║
+║ ID: 25 ║ Title: Super-human deal                           ║
+║ ID: 26 ║ Title: Lost in the stars                          ║
+║ ID: 27 ║ Title: Put them in my hands                       ║
+║ ID: 28 ║ Title: Tell me what you think                     ║
+║ ID: 29 ║ Title: Everything of good and evil                ║
+║ ID: 30 ║ Title: I will return                              ║
+║ ID: 31 ║ Title: Before he died                             ║
+║ ID: 32 ║ Title: This is where you belong                   ║
+║ ID: 33 ║ Title: I still talk at night                      ║
+║ ID: 34 ║ Title: No different                               ║
+║ ID: 35 ║ Title: My soul here on earth                      ║
+║ ID: 36 ║ Title: And you know it?                           ║
+║ ID: 37 ║ Title: Before you know it                         ║
+║ ID: 38 ║ Title: A statue made of myself                    ║
+║ ID: 39 ║ Title: Somewhere, somewhere inside you            ║
+║ ID: 40 ║ Title: Take the wheel                             ║
+║ ID: 41 ║ Title: Finally liberty if you get back on stage   ║
+║ ID: 42 ║ Title: It's his pleasure                          ║
+║ ID: 43 ║ Title: I didn't care about you                    ║
+║ ID: 44 ║ Title: Starting with white                        ║
+║ ID: 45 ║ Title: I don't need you anymore                   ║
+║ ID: 46 ║ Title: Head from the future                       ║
+║ ID: 47 ║ Title: Ask anybody                                ║
+║ ID: 48 ║ Title: Where I sit from now on                    ║
+║ ID: 49 ║ Title: Through the gate                           ║
+║ ID: 50 ║ Title: You've got no right to complain            ║
+║ ID: 51 ║ Title: Love still burns                           ║
+║ ID: 52 ║ Title: To know my innermost thoughts              ║
+║ ID: 53 ║ Title: And stay away                              ║
+║ ID: 54 ║ Title: You watched me hide in a corner            ║
+║ ID: 55 ║ Title: No foundation                              ║
+║ ID: 56 ║ Title: You found your way in                      ║
+║ ID: 57 ║ Title: Got a little girl now                      ║
+║ ID: 58 ║ Title: Never do                                   ║
+║ ID: 59 ║ Title: Dealt your heart                           ║
+║ ID: 60 ║ Title: And the room                               ║
+║ ID: 61 ║ Title: When you leave me now                      ║
+║ ID: 62 ║ Title: I will shake                               ║
+║ ID: 63 ║ Title: Common cause                               ║
+║ ID: 64 ║ Title: Throw sand out of her eyes                 ║
+║ ID: 65 ║ Title: All I ever knew                            ║
+║ ID: 66 ║ Title: The saddest day                            ║
+║ ID: 67 ║ Title: Flowing water in your hand                 ║
+║ ID: 68 ║ Title: Every indecision comes nearer              ║
+║ ID: 69 ║ Title: No one's fucking with me                   ║
+║ ID: 70 ║ Title: You are going crazy                        ║
+║ ID: 71 ║ Title: Wished for God                             ║
+║ ID: 72 ║ Title: To her ecstasy                             ║
+║ ID: 73 ║ Title: It won't take long to sing                 ║
+║ ID: 74 ║ Title: Up and out                                 ║
+║ ID: 75 ║ Title: I'm ready for this                         ║
+║ ID: 76 ║ Title: Love for the soul                          ║
+║ ID: 77 ║ Title: Cruel red country                          ║
+║ ID: 78 ║ Title: The speed with which time keeps repeating  ║
+║ ID: 79 ║ Title: Brother                                    ║
+║ ID: 80 ║ Title: Say all you want                           ║
+║ ID: 81 ║ Title: Had to surrender                           ║
+║ ID: 82 ║ Title: Hang over me like a bat                    ║
+║ ID: 83 ║ Title: Old Alabama                                ║
+║ ID: 84 ║ Title: Don't have it hard                         ║
+║ ID: 85 ║ Title: A habit to exist                           ║
+║ ID: 86 ║ Title: Now there are some more                    ║
+║ ID: 87 ║ Title: Pictures to show                           ║
+║ ID: 88 ║ Title: When I'm like this                         ║
+║ ID: 89 ║ Title: I hope we'll be together soon              ║
+║ ID: 90 ║ Title: This is the future                         ║
+║ ID: 91 ║ Title: Switch to a different flavor               ║
+║ ID: 92 ║ Title: Sculptures of deceit                       ║
+║ ID: 93 ║ Title: Time for a question                        ║
+║ ID: 94 ║ Title: Spring like here                           ║
+║ ID: 95 ║ Title: That's what life is all about              ║
+║ ID: 96 ║ Title: Give everything to somebody                ║
+║ ID: 97 ║ Title: I don't want to be you                     ║
+║ ID: 98 ║ Title: Time passes                                ║
+║ ID: 99 ║ Title: Right back up                              ║
+║ ID: 100║ Title: A letter from you                          ║
+╚══╦═════╩═══════════════════════════════════════════════╦═══╝
+   ║               Top 100 in order of ID                ║
+   ╚═════════════════════════════════════════════════════╝

@@ -1,0 +1,32 @@
+╔═════════════════════█ White █══════════════════════╗
+║                                                    ║
+╠══════════════════█ Most White █════════════════════╣             
+║                                                    ║
+║  [1] | 5705 | Nobody cares                         ║
+║  [2] | 7191 | We're all lying                      ║
+║  [3] | 6256 | More bear song                       ║
+║  [4] | 6360 | Panic of vengeance                   ║
+║  [5] | 6302 | Call me weak                         ║
+║  [6] | 6263 | Naughty                              ║
+║  [7] | 6305 | The whole place is quiet             ║
+║  [8] | 5769 | The new sever stars                  ║
+║  [9] | 5799 | Hooligns love me                     ║
+║  [10] | 6267 | Same boat song                      ║
+║                                                    ║
+╠══════════════════█ Least White █═══════════════════╣   
+║                                                    ║
+║  [1] | 8092 | Nobody lives like you                ║
+║  [2] | 7310 | And you left                         ║
+║  [3] | 7392 | Do not be insincere                  ║
+║  [4] | 7188 | Aloha                                ║
+║  [5] | 8110 | And now that she thinks I can see    ║
+║  [6] | 8061 | Fall down                            ║
+║  [7] | 7142 | Life is safe                         ║
+║  [8] | 8076 | Angel as glow in the moon            ║
+║  [9] | 7171 | The safe place                       ║
+║  [10] | 9314 | We're all insane                    ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+
+
+

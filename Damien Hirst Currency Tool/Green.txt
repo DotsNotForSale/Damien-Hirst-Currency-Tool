@@ -1,0 +1,31 @@
+╔════════════════█ Green █════════════════════╗
+║                                             ║
+╠══════════════█ Most Green █═════════════════╣
+║                                             ║
+║  [1] | 5261 | Stay around me                ║
+║  [2] | 7309 | Changing your mind            ║
+║  [3] | 8300 | Like you all                  ║
+║  [4] | 8407 | You've got half the weight    ║
+║  [5] | 8294 | Turning off your game         ║
+║  [6] | 2062 | To hide yourself              ║
+║  [7] | 1356 | Fire within the span of time  ║
+║  [8] | 8010 | Time to grind                 ║
+║  [9] | 8310 | That were two ways to meet    ║
+║  [10] | 9314 | We're all insane             ║
+║                                             ║
+╠═════════════█ Least Green █═════════════════╣
+║                                             ║
+║  [1] | 3840 | Then sell his soul            ║
+║  [2] | 4142 | Either we sing or die         ║
+║  [3] | 4139 | I'm weary                     ║
+║  [4] | 3212 | Miss me by the hand           ║
+║  [5] | 3136 | I'm getting old               ║
+║  [6] | 1522 | You know my title             ║
+║  [7] | 3994 | And at what price             ║
+║  [8] | 4232 | Droping bells                 ║
+║  [9] | 4145 | Wipe you dry                  ║
+║  [10] | 1784 | The sunset                   ║
+║                                             ║
+╚═════════════════════════════════════════════╝
+
+

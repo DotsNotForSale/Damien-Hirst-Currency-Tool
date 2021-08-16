@@ -1,0 +1,30 @@
+╔═══════════════════█ Weight █══════════════════════╗
+║                                                   ║
+╠══════════════════█ Heaviest █═════════════════════╣  
+║                                                   ║
+║  [1] | 6151 | When I met you                      ║
+║  [2] | 5401 | We will ride it out                 ║
+║  [3] | 6200 | Gentlemens                          ║
+║  [4] | 8110 | And now that she thinks I can see   ║
+║  [5] | 5333 | Let's talk rainbows                 ║
+║  [6] | 6528 | In the interests of playing along   ║
+║  [7] | 5332 | Feel free to eat                    ║
+║  [8] | 6232 | The saints will sing at the floor   ║
+║  [9] | 6275 | Don't hold your breath              ║
+║  [10] | 5387 | And she had to change places       ║
+║                                                   ║
+╠══════════════════█ Lightest █═════════════════════╣ 
+║                                                   ║
+║  [1] | 5212 | Your tears start falling            ║
+║  [2] | 5022 | Good to get a kiss                  ║
+║  [3] | 800 | Make me believe                      ║
+║  [4] | 8253 | Someday of my life                  ║
+║  [5] | 86 | Now there are some more               ║
+║  [6] | 8567 | Push me through it                  ║
+║  [7] | 9305 | Very well                           ║
+║  [8] | 6637 | Reading my lips                     ║
+║  [9] | 9189 | Down in the frozen cemetery         ║
+║  [10] | 7332 | A well-lit place                   ║
+║                                                   ║
+╚═══════════════════════════════════════════════════╝
+

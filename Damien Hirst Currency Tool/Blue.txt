@@ -1,0 +1,30 @@
+╔═════════════════════════█ Blue █════════════════════════╗
+║                                                         ║
+╠══════════════════════█ Most Blue █══════════════════════╣
+║                                                         ║
+║  [1] | 8092 | Nobody lives like you                     ║
+║  [2] | 8098 | One of those great kings                  ║
+║  [3] | 7310 | And you left                              ║
+║  [4] | 7109 | We got people                             ║
+║  [5] | 8110 | And now tht she thinks I can see          ║
+║  [6] | 8076 | Angel as glow in the moon                 ║
+║  [7] | 8011 | But there was hope                        ║
+║  [8] | 8126 | Knock on doors                            ║
+║  [9] | 7140 | I'll never be satisfied                   ║
+║  [10] | 7074 | Take your baby boy                       ║
+║                                                         ║
+╠══════════════════════█ Least Blue █═════════════════════╣
+║                                                         ║
+║  [1] | 8411 | Something for everyone                    ║
+║  [2] | 8417 | Yeah you go                               ║
+║  [3] | 9715 | I think it's time to go?                  ║
+║  [4] | 8429 | Please start singing along                ║
+║  [5] | 9713 | Wonderful prison                          ║
+║  [6] | 8430 | Killing all that nobody's understanding   ║
+║  [7] | 5104 | Scour her rubble                          ║
+║  [8] | 5202 | Raging mad in church                      ║
+║  [9] | 2720 | Straight to home                          ║
+║  [10] | 5024 | Dancing around like it's forever         ║ 
+║                                                         ║
+╚═════════════════════════════════════════════════════════╝
+

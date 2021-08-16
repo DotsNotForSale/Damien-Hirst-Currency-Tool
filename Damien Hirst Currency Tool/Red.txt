@@ -1,0 +1,30 @@
+╔═════════════════════█ Red █═════════════════════════╗
+║                                                     ║
+╠═══════════════════█ Most Red █══════════════════════╣
+║                                                     ║
+║  [1] | 5261 | Stay around me                        ║
+║  [2] | 8402 | Feeling away                          ║
+║  [3] | 8869 | In truth                              ║
+║  [4] | 2741 | Don't know when                       ║
+║  [5] | 2733 | I thought you were dead               ║
+║  [6] | 2749 | One of them's lying                   ║
+║  [7] | 2701 | Sounds like the shadows falls on you  ║
+║  [8] | 2715 | Lay dead                              ║
+║  [9] | 5120 | Kill the typhoon                      ║
+║  [10] | 8172 | And I slept it up                    ║
+║                                                     ║
+╠═══════════════════█ Least Red █═════════════════════╣
+║                                                     ║
+║  [1] | 9173 | Covered in mud                        ║
+║  [2] | 9176 | What a time to be alive               ║
+║  [3] | 9192 | All of them crying                    ║
+║  [4] | 9218 | Modern-day gangster                   ║
+║  [5] | 9193 | I mean what is on your mind           ║
+║  [6] | 9209 | In a clear room                       ║
+║  [7] | 9178 | To paint down a statue                ║
+║  [8] | 9199 | The devil will take my dead lips      ║
+║  [9] | 9184 | Smell the sound of shining            ║
+║  [10] | 9061 | And in the morning                   ║
+║                                                     ║
+╚═════════════════════════════════════════════════════╝
+

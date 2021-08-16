@@ -1,0 +1,31 @@
+╔════════════════════█ Magenta █═════════════════════╗
+║                                                    ║
+╠═════════════════█ Most Magenta █═══════════════════╣
+║                                                    ║
+║  [1] | 2787 | Burning something cool               ║
+║  [2] | 2617 | Make some nice ladies day            ║
+║  [3] | 2868 | Swept by hypnotic wind               ║
+║  [4] | 3298 | I won't go                           ║
+║  [5] | 2807 | The rainbow burst                    ║
+║  [6] | 4871 | Long live, I'm one                   ║
+║  [7] | 4886 | That's not good for you              ║
+║  [8] | 9192 | All of them crying                   ║
+║  [9] | 9176 | What a time to be alive              ║
+║  [10] | 1951 | Because of your glory               ║
+║                                                    ║
+╠════════════════█ Least Magenta █═══════════════════╣
+║                                                    ║
+║  [1] | 9742 | Don't trust me                       ║
+║  [2] | 9717 | Caught keeping your heart cracked    ║
+║  [3] | 9979 | Not quite how I feel                 ║
+║  [4] | 9981 | A shadow of that youth               ║
+║  [5] | 9738 | Return to your feet                  ║
+║  [6] | 9954 | So why don't I have money to spend?  ║
+║  [7] | 9921 | Anything for sale                    ║
+║  [8] | 9929 | Though darker than I am              ║
+║  [9] | 9727 | Hoping for another day               ║
+║  [10] | 9926 | You talk with the dog               ║
+║                                                    ║
+╚════════════════════════════════════════════════════╝
+
+

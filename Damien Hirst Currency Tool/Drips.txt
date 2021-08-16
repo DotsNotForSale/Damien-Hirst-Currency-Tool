@@ -1,0 +1,33 @@
+╔══════════════════█ Drips █═══════════════════╗
+║                                              ║
+╠═══════════════█ Most Drips █═════════════════╣
+║                                              ║
+║  [1] | 8092 | Nobody lives like you          ║
+║  [2] | 4332 | Moving from one to the next    ║
+║  [3] | 2657 | Give me a chance               ║
+║  [4] | 8072 | Ornery trad songs              ║
+║  [5] | 3393 | Moonlighting in every line     ║
+║  [6] | 3284 |Should've done                  ║                 
+║  [7] | 9879 | You're fine                    ║
+║  [8] | 2308 | Silver                         ║
+║  [9] | 2127 | I met his father               ║
+║  [10] | 7104 | Take a shine to your face     ║
+║                                              ║
+╠══════════════█ Least Drips █═════════════════╣
+║                                              ║
+║  [1] | 3386 | Represent the past             ║ 
+║  [2] | 2979 | There isn't time to sit down   ║
+║  [3] | 9115 | On the moonlight               ║
+║  [4] | 4922 | These are times I want         ║
+║  [5] | 3442 | The books came flying          ║
+║  [6] | 6065 | Found these bags               ║
+║  [7] | 9106 | Becoming a man                 ║
+║  [8] | 9154 | Rolling my eyes                ║
+║  [9] | 9235 | Told to share                  ║
+║  [10] | 9075 | Ever forget your names        ║
+║                                              ║
+╚══════════════════════════════════════════════╝
+
+
+
+ 

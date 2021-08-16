@@ -1,0 +1,29 @@
+╔═══════════════════█ Yellow █═══════════════════╗
+║                                                ║
+╠════════════════█ Most Yellow █═════════════════╣   
+║                                                ║
+║  [1] | 9038 | My art gallery                   ║
+║  [2] | 9028 | If you wish                      ║
+║  [3] | 9021 | Wait for the rest of the world   ║
+║  [4] | 9094 | Talking to someone else          ║
+║  [5] | 5868 | A single and innocent hero       ║
+║  [6] | 9192 | All of them crying               ║
+║  [7] | 5846 | I grew too old                   ║
+║  [8] | 5984 | Walking out onto your town       ║
+║  [9] | 9048 | The night is dark                ║
+║  [10] | 9030 | Poets sing songs of death       ║
+║                                                ║
+╠═══════════════█ Least Yellow █═════════════════╣   
+║                                                ║
+║  [1] | 7484 | Mistakes you make                ║
+║  [2] | 5330 | Born on this paper               ║
+║  [3] | 4251 | Too good to be true              ║
+║  [4] | 8260 | Her miserable cry                ║
+║  [5] | 3096 | Our eyes burn                    ║
+║  [6] | 8047 | Young cats                       ║
+║  [7] | 5464 | I've got special girl            ║
+║  [8] | 8324 | Walk around trying to cheat      ║
+║  [9] | 1565 | Waterfalls                       ║
+║  [10] | 8359 | Your ring of thunder            ║
+║                                                ║
+╚════════════════════════════════════════════════╝
