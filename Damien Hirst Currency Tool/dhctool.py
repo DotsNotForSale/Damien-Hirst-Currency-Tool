@@ -9,6 +9,7 @@ import json
 this_dir = os.path.dirname(os.path.abspath(__file__))
 # Get paths for all files
 files = [
+    os.path.join(this_dir, 'top25.txt'),
     os.path.join(this_dir, 'Alphabetically Ascending.txt'),
     os.path.join(this_dir, 'Characters Ascending.txt'),
     os.path.join(this_dir, 'Alphabetically Descending.txt'),
@@ -102,7 +103,8 @@ def search_tender():
 
 def view_list():
     options = [
-        '╔ Top 100 Alphbetical Least',
+        '╔ Top 25 Sales',
+        '╠ Top 100 Alphbetical Least',
         '╠ Top 100 Character Count Least',
         '╠ Top 100 Alphabetical Most',
         '╠ Top 100 Character Count Most',
